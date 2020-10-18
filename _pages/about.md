@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-About
+About me
 ======
 Now I’m a first year Ph.D. student in Computer Science at Université Grenoble Alpes with Chinese Government Scholarship.
 
