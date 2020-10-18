@@ -1,7 +1,7 @@
 ---
 title: "Objective Reduction Using Objective Sampling and Affinity Propagation for Many-Objective Optimization Problems"
 collection: publications
-permalink: /publication/Objective Reduction Using Objective Sampling and Affinity Propagation for Many-Objective Optimization Problems
+permalink: /publication/2019-05-01-objectreduction
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2019
 venue: 'IEEE Access'
