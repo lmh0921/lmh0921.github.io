@@ -29,15 +29,15 @@ Work/Intern experience
 Skills
 ======
 * Python
-  * Sub-skill Pytorch
+  * Pytorch
 * Web
-  * Sub-skill Java
-  * Sub-skill PHP
-  * Sub-skill HTML
-  * Sub-skill Javascript
-  * Sub-skill VUE
+  * Java
+  * PHP
+  * HTML
+  * Javascript
+  * VUE
 * IOS
-  * Sub-skill objective-c
+  * objective-c
 
 Publications
 ======
