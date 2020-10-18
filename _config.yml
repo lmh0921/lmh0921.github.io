@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Minghan LI / personal site"
+title                    : "Minghan LI"
 title_separator          : "-"
 name                     : &name "Minghan"
 description              : &description "phd student"
