@@ -31,8 +31,8 @@ Skills
 * Python
   * Pytorch
 * Web
-  * Java
-  * PHP
+  * Java, Spring boot
+  * PHP, Laravel, Yaf
   * HTML
   * Javascript
   * VUE.JS
