@@ -11,30 +11,33 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Information Engineering, Xi'an Jiaotong University
+* M.S. in Computer technology, Xidian University
+* Studying Ph.D in Computer Science, universitat autònoma de barcelona (canceled)
+* Studying Ph.D in Computer Science, Université Grenoble Alpes, 2023 (expected)
 
-Work experience
+Work/Intern experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Software Engineer
+  * KE Holdings Inc (NYSE: BEKE)
+  * Duties included: Backend web, Bigdata analysis, Write new version SQLs, build new monitor website
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Software Engineer
+  * Huawei
+  * Duties included: CPU validation related
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+  * Sub-skill Pytorch
+* Web
+  * Sub-skill Java
+  * Sub-skill PHP
+  * Sub-skill HTML
+  * Sub-skill Javascript
+  * Sub-skill VUE
+* IOS
+  * Sub-skill objective-c
 
 Publications
 ======
