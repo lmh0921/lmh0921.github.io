@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Minghan LI/重新做人"
+title                    : "Minghan LI"
 title_separator          : "-"
 name                     : &name "Minghan"
 description              : &description "phd student"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Minghan Li"
+  name             : "Minghan Li/重新做人"
   avatar           : "profile.png"
   bio              : "Ph.D. Student at Université Grenoble Alpes (UGA)"
   location         : "Grenoble, France"
