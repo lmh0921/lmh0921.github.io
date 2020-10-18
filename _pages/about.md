@@ -14,6 +14,4 @@ Now I’m a first year Ph.D. student in Computer Science at Université Grenoble
 
 My current interests include natural language processing and information retrieval.
 
-reborn
-======
 
