@@ -20,7 +20,7 @@ Work/Intern experience
 ======
 * Software Engineer
   * KE Holdings Inc (NYSE: BEKE)
-  * Duties included: Backend web, Bigdata analysis, Write new version SQLs, build new monitor website
+  * Duties included: Backend web, Bigdata analysis, Write new version SQLs, develop new monitor website
 
 * Software Engineer
   * Huawei
