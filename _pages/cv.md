@@ -35,7 +35,8 @@ Skills
   * PHP
   * HTML
   * Javascript
-  * VUE
+  * VUE.JS
+  * IONIC
 * IOS
   * objective-c
 
