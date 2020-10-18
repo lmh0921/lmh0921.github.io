@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Information Engineering, Xi'an Jiaotong University
 * M.S. in Computer technology, Xidian University
-* Studying Ph.D in Computer Science, universitat autònoma de barcelona (canceled)
+* ~~Studying Ph.D in Computer Science, universitat autònoma de barcelona (canceled)~~
 * Studying Ph.D in Computer Science, Université Grenoble Alpes, 2023 (expected)
 
 Work/Intern experience
