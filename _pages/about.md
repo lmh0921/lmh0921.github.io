@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-Now I’m a first year Ph.D. student in Computer Science at Université Grenoble Alpes.
+Now I’m a first year Ph.D. student in Computer Science at Université Grenoble Alpes with Chinese Government Scholarship.
 
 My current interests include natural language processing and information retrieval.
 
