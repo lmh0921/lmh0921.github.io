@@ -29,7 +29,7 @@ Work/Intern experience
 Skills
 ======
 * Python
-  * Pytorch
+  * Pytorch, tensorflow
 * Web
   * Java, Spring boot
   * PHP, Laravel, Yaf
