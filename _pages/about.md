@@ -32,7 +32,7 @@ I received my B.S. degree from Xi’an Jiaotong University, my M.S. degree from 
   <div class='paper-box-image'>
     <div>
       <div class="badge">Information Fusion 2026</div>
-      <img src='images/inffusion.png' alt="Dual-Layer Prompt Ensembles" width="100%">
+      <img src='../images/inffusion.png' alt="Dual-Layer Prompt Ensembles" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
