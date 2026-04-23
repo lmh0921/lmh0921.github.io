@@ -44,7 +44,7 @@ I received my B.S. degree from Xi’an Jiaotong University, my M.S. degree from 
 *Information Fusion*, 2026
 
 - Robust LLM-based query expansion and rank fusion with dual-layer prompt ensembles.
-- First author and corresponding author.
+- Corresponding author and first author.
 
 </div>
 </div>
@@ -54,7 +54,7 @@ I received my B.S. degree from Xi’an Jiaotong University, my M.S. degree from 
   <div class='paper-box-image'>
     <div>
       <div class="badge">ACL 2026</div>
-      <img src='images/acl2026_glier.png' alt="GLIER" width="100%">
+      <img src='../images/glier.png' alt="GLIER" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -67,6 +67,7 @@ I received my B.S. degree from Xi’an Jiaotong University, my M.S. degree from 
 
 - A generative legal inference framework for legal case retrieval.
 - Combines latent legal variable inference with multi-view evidence ranking.
+- Corresponding author and co-first author.
 
 </div>
 </div>
@@ -76,7 +77,7 @@ I received my B.S. degree from Xi’an Jiaotong University, my M.S. degree from 
   <div class='paper-box-image'>
     <div>
       <div class="badge">ACL 2026</div>
-      <img src='images/acl2026_s2g.png' alt="S2G-RAG" width="100%">
+      <img src='../images/s2gRag.png' alt="S2G-RAG" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -89,6 +90,7 @@ I received my B.S. degree from Xi’an Jiaotong University, my M.S. degree from 
 
 - An iterative RAG framework with structured sufficiency judgment and gap-guided retrieval.
 - Designed for multi-hop QA and evidence-aware iterative retrieval.
+- Corresponding author and co-first author.
 
 </div>
 </div>
@@ -98,7 +100,7 @@ I received my B.S. degree from Xi’an Jiaotong University, my M.S. degree from 
   <div class='paper-box-image'>
     <div>
       <div class="badge">TOIS 2023</div>
-      <img src='images/tois2023_keyblocks.png' alt="TOIS 2023" width="100%">
+      <img src='../images/KeyB-TOIS.png' alt="TOIS 2023" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
