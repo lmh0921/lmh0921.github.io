@@ -155,7 +155,7 @@ I received my B.S. degree from Xi’an Jiaotong University, my M.S. degree from 
 # 📖 Educations
 - *2020.10 - 2023.12*, Ph.D. in Computer Science, <img src="../images/uga.png" width="18" style="vertical-align:middle;"> Université Grenoble Alpes, France.
 - M.S. in Computer Technology, <img src="../images/xidian.png" width="18" style="vertical-align:middle;"> Xidian University, China.
-- B.E. in Information Engineering, <img src="../images/xjtu.jpg" width="18" style="vertical-align:middle;"> Xi’an Jiaotong University, China.
+- B.S. in Information Engineering, <img src="../images/xjtu.jpg" width="18" style="vertical-align:middle;"> Xi’an Jiaotong University, China.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
