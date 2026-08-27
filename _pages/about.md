@@ -167,6 +167,7 @@ authors: **Minghan Li**, Xinxuan Lv, Junjie Zou, Tongna Chen, Chao Zhang, Suchao
 # 💰 Research Grants
 
 - National Natural Science Foundation of China (NSFC) grant (No. 62606348), **Principal Investigator**.
+- Soochow University Academic Start-up Fund, **Principal Investigator**.
 
 # 📖 Educations
 - *2020.10 - 2023.12*, Ph.D. in Computer Science, <img src="../images/uga.png" width="18" style="vertical-align:middle;"> Université Grenoble Alpes, France.
