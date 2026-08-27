@@ -32,10 +32,6 @@ Query Expansion in the Age of Pre-trained and Large Language Models: A Comprehen
 authors: **Minghan Li**, Xinxuan Lv, Junjie Zou, Tongna Chen, Chao Zhang, Suchao An, Ercong Nie, Guodong Zhou.
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 💰 Research Grants
-
-- National Natural Science Foundation of China (NSFC) grant (No. 62606348), **Principal Investigator**.
-
 # 📝 Publications 
 
 <div class='paper-box'>
@@ -129,11 +125,16 @@ authors: **Minghan Li**, Xinxuan Lv, Junjie Zou, Tongna Chen, Chao Zhang, Suchao
 
 ## 📚 Conference and Journal Papers
 
+- `TOIS 2026` Query Expansion in the Age of Pre-trained and Large Language Models: A Comprehensive Survey, **Minghan Li**, Xinxuan Lv, Junjie Zou, Tongna Chen, Chao Zhang, Suchao An, Ercong Nie, Guodong Zhou
+- `Information Fusion 2026` Dual-Layer Prompt Ensembles: Leveraging System-and User-Level Instructions for Robust LLM-Based Query Expansion and Rank Fusion, **Minghan Li**, Ercong Nie, Huiping Huang, Xinxuan Lv, Guodong Zhou. *First and corresponding author.*
+- `ACL 2026 Main Conference` GLIER: Generative Legal Inference and Evidence Ranking for Legal Case Retrieval, **Minghan Li**, Tianrui Lv, Chao Zhang, Guodong Zhou. *Co-first and corresponding author.*
+- `ACL 2026 Main Conference` S2G-RAG: Structured Sufficiency and Gap Judging for Iterative Retrieval-Augmented QA, **Minghan Li**, Junjie Zou, Xinxuan Lv, Chao Zhang, Guodong Zhou. *Co-first and corresponding author.*
 - `EMNLP 2026 Main Conference` SAGA: Structured Applicability-Guided Alignment for Conversational Legal Retrieval, Xinxuan Lv, **Minghan Li**, Guodong Zhou. *Co-first and corresponding author.*
 - `EMNLP 2026 Main Conference` Cascade-SC: A Pareto-Efficient Cross-Model Cascade for Test-Time Reasoning, **Minghan Li**, Siqi Zhao, Luoliang Hua, Guodong Zhou. *Co-first and corresponding author.*
 - `EMNLP 2026 Findings` EviRerank: Adaptive Evidence Construction for Long-Document LLM Reranking, **Minghan Li**, Eric Gaussier, Juntao Li, Guodong Zhou. *First and corresponding author.*
 - `AAAI 2026` RFKG-CoT: Relation-Driven Adaptive Hop-count Selection and Few-Shot Path Guidance for Knowledge-Aware QA, Chao Zhang, **Minghan Li**, Tianrui Lv, Guodong Zhou
 - `COLING 2024` Domain Adaptation for Dense Retrieval and Conversational Dense Retrieval through Self-Supervision by Meticulous Pseudo-Relevance Labeling, **Minghan Li**, Eric Gaussier
+- `TOIS 2023` The Power of Selecting Key Blocks with Local Pre-ranking for Long Document Information Retrieval, **Minghan Li**, Diana Nicoleta Popa, Johan Chagnon, Yagmur Gizem Cinar, Eric Gaussier
 - `SIGIR 2022` BERT-based Dense Intra-ranking and Contextualized Late Interaction via Multi-task Learning for Long Document Retrieval, **Minghan Li**, Eric Gaussier
 - `AAAI 2022` Listwise Learning to Rank Based on Approximate Rank Indicators, Thibaut Thonet, Yagmur Gizem Cinar, Éric Gaussier, **Minghan Li**, Jean-Michel Renders
 - `SIGIR 2021` KeyBLD: Selecting Key Blocks with Local Pre-ranking for Long Document Information Retrieval, **Minghan Li**, Eric Gaussier
@@ -146,7 +147,6 @@ authors: **Minghan Li**, Xinxuan Lv, Junjie Zou, Tongna Chen, Chao Zhang, Suchao
 - `arXiv 2026` Retrieval-Feedback-Driven Distillation and Preference Alignment for Efficient LLM-based Query Expansion, **Minghan Li**, Guodong Zhou
 - `arXiv 2025` Enhanced Retrieval of Long Documents: Leveraging Fine-Grained Block Representations with Large Language Models, **Minghan Li**, Eric Gaussier, Guodong Zhou
 - `arXiv 2025` A Survey of Long-Document Retrieval in the PLM and LLM Era, **Minghan Li**, Miyang Luo, Tianrui Lv, Yishuai Zhang, Siqi Zhao, Ercong Nie, Guodong Zhou
-- `arXiv 2025` Query Expansion in the Age of Pre-trained and Large Language Models: A Comprehensive Survey, **Minghan Li**, Xinxuan Lv, Junjie Zou, Tongna Chen, Chao Zhang, Suchao An, Ercong Nie, Guodong Zhou
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -163,6 +163,10 @@ authors: **Minghan Li**, Xinxuan Lv, Junjie Zou, Tongna Chen, Chao Zhang, Suchao
 - *2020.10 - 2023.12*, Ph.D. in Computer Science, Université Grenoble Alpes, France.
 - M.S. in Computer Technology, Xidian University, China.
 - B.E. in Information Engineering, Xi’an Jiaotong University, China. -->
+
+# 💰 Research Grants
+
+- National Natural Science Foundation of China (NSFC) grant (No. 62606348), **Principal Investigator**.
 
 # 📖 Educations
 - *2020.10 - 2023.12*, Ph.D. in Computer Science, <img src="../images/uga.png" width="18" style="vertical-align:middle;"> Université Grenoble Alpes, France.
