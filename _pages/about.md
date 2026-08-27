@@ -23,12 +23,18 @@ I received my B.S. degree from Xi’an Jiaotong University, my M.S. degree from 
 
 
 # 🔥 News
+- *2026.08*: &nbsp;🎉 Three papers are accepted by EMNLP 2026: **SAGA** and **Cascade-SC** to the Main Conference, and **EviRerank** to Findings. I am a co-first and corresponding author of the two Main Conference papers, and the first and corresponding author of the Findings paper.
+
 - *2026.05*: &nbsp;🎉🎉 1 paper is accepted by ACM Transactions on Information Systems (TOIS): 
 
 Query Expansion in the Age of Pre-trained and Large Language Models: A Comprehensive Survey, 
 
 authors: **Minghan Li**, Xinxuan Lv, Junjie Zou, Tongna Chen, Chao Zhang, Suchao An, Ercong Nie, Guodong Zhou.
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+
+# 💰 Research Grants
+
+- National Natural Science Foundation of China (NSFC) grant (No. 62606348), **Principal Investigator**.
 
 # 📝 Publications 
 
@@ -123,6 +129,9 @@ authors: **Minghan Li**, Xinxuan Lv, Junjie Zou, Tongna Chen, Chao Zhang, Suchao
 
 ## 📚 Conference and Journal Papers
 
+- `EMNLP 2026 Main Conference` SAGA: Structured Applicability-Guided Alignment for Conversational Legal Retrieval, Xinxuan Lv, **Minghan Li**, Guodong Zhou. *Co-first and corresponding author.*
+- `EMNLP 2026 Main Conference` Cascade-SC: A Pareto-Efficient Cross-Model Cascade for Test-Time Reasoning, **Minghan Li**, Siqi Zhao, Luoliang Hua, Guodong Zhou. *Co-first and corresponding author.*
+- `EMNLP 2026 Findings` EviRerank: Adaptive Evidence Construction for Long-Document LLM Reranking, **Minghan Li**, Eric Gaussier, Juntao Li, Guodong Zhou. *First and corresponding author.*
 - `AAAI 2026` RFKG-CoT: Relation-Driven Adaptive Hop-count Selection and Few-Shot Path Guidance for Knowledge-Aware QA, Chao Zhang, **Minghan Li**, Tianrui Lv, Guodong Zhou
 - `COLING 2024` Domain Adaptation for Dense Retrieval and Conversational Dense Retrieval through Self-Supervision by Meticulous Pseudo-Relevance Labeling, **Minghan Li**, Eric Gaussier
 - `SIGIR 2022` BERT-based Dense Intra-ranking and Contextualized Late Interaction via Multi-task Learning for Long Document Retrieval, **Minghan Li**, Eric Gaussier
@@ -138,7 +147,6 @@ authors: **Minghan Li**, Xinxuan Lv, Junjie Zou, Tongna Chen, Chao Zhang, Suchao
 - `arXiv 2025` Enhanced Retrieval of Long Documents: Leveraging Fine-Grained Block Representations with Large Language Models, **Minghan Li**, Eric Gaussier, Guodong Zhou
 - `arXiv 2025` A Survey of Long-Document Retrieval in the PLM and LLM Era, **Minghan Li**, Miyang Luo, Tianrui Lv, Yishuai Zhang, Siqi Zhao, Ercong Nie, Guodong Zhou
 - `arXiv 2025` Query Expansion in the Age of Pre-trained and Large Language Models: A Comprehensive Survey, **Minghan Li**, Xinxuan Lv, Junjie Zou, Tongna Chen, Chao Zhang, Suchao An, Ercong Nie, Guodong Zhou
-- `arXiv 2024` EviRerank: Adaptive Evidence Construction for Long-Document LLM Reranking, **Minghan Li**, Eric Gaussier, Juntao Li, Guodong Zhou
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
