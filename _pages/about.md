@@ -25,7 +25,7 @@ I received my B.S. degree from Xi’an Jiaotong University, my M.S. degree from 
 # 🔥 News
 - *2026.08*: &nbsp;🎉 Our survey paper, **A Survey of Long-Document Retrieval in the PLM and LLM Era**, has been accepted for publication in ACM Transactions on Information Systems (TOIS).
 
-- *2026.08*: &nbsp;🎉 Three papers are accepted by EMNLP 2026: **SAGA** and **Cascade-SC** to the Main Conference, and **EviRerank** to Findings. I am a co-first and corresponding author of the two Main Conference papers, and the first and corresponding author of the Findings paper.
+- *2026.08*: &nbsp;🎉 Three papers are accepted by EMNLP 2026: **SAGA** and **Cascade-SC** to the Main Conference, and **EviRerank** to Findings.
 
 - *2026.05*: &nbsp;🎉🎉 1 paper is accepted by ACM Transactions on Information Systems (TOIS): 
 
