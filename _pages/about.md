@@ -23,6 +23,8 @@ I received my B.S. degree from Xi’an Jiaotong University, my M.S. degree from 
 
 
 # 🔥 News
+- *2026.08*: &nbsp;🎉 Our survey paper, **A Survey of Long-Document Retrieval in the PLM and LLM Era**, has been accepted for publication in ACM Transactions on Information Systems (TOIS).
+
 - *2026.08*: &nbsp;🎉 Three papers are accepted by EMNLP 2026: **SAGA** and **Cascade-SC** to the Main Conference, and **EviRerank** to Findings. I am a co-first and corresponding author of the two Main Conference papers, and the first and corresponding author of the Findings paper.
 
 - *2026.05*: &nbsp;🎉🎉 1 paper is accepted by ACM Transactions on Information Systems (TOIS): 
@@ -125,6 +127,7 @@ authors: **Minghan Li**, Xinxuan Lv, Junjie Zou, Tongna Chen, Chao Zhang, Suchao
 
 ## 📚 Conference and Journal Papers
 
+- `TOIS 2026` A Survey of Long-Document Retrieval in the PLM and LLM Era, **Minghan Li**, Yishuai Zhang, Tianrui Lv, Siqi Zhao, Miyang Luo, Ercong Nie, Guodong Zhou
 - `TOIS 2026` Query Expansion in the Age of Pre-trained and Large Language Models: A Comprehensive Survey, **Minghan Li**, Xinxuan Lv, Junjie Zou, Tongna Chen, Chao Zhang, Suchao An, Ercong Nie, Guodong Zhou
 - `Information Fusion 2026` Dual-Layer Prompt Ensembles: Leveraging System-and User-Level Instructions for Robust LLM-Based Query Expansion and Rank Fusion, **Minghan Li**, Ercong Nie, Huiping Huang, Xinxuan Lv, Guodong Zhou. *First and corresponding author.*
 - `ACL 2026 Main Conference` GLIER: Generative Legal Inference and Evidence Ranking for Legal Case Retrieval, **Minghan Li**, Tianrui Lv, Chao Zhang, Guodong Zhou. *Co-first and corresponding author.*
@@ -146,7 +149,6 @@ authors: **Minghan Li**, Xinxuan Lv, Junjie Zou, Tongna Chen, Chao Zhang, Suchao
 - `arXiv 2026` GenState-AI: State-Aware Dataset for Text-to-Video Retrieval on AI-Generated Videos, **Minghan Li**, Tongna Chen, Tianrui Lv, Yishuai Zhang, Suchao An, Guodong Zhou
 - `arXiv 2026` Retrieval-Feedback-Driven Distillation and Preference Alignment for Efficient LLM-based Query Expansion, **Minghan Li**, Guodong Zhou
 - `arXiv 2025` Enhanced Retrieval of Long Documents: Leveraging Fine-Grained Block Representations with Large Language Models, **Minghan Li**, Eric Gaussier, Guodong Zhou
-- `arXiv 2025` A Survey of Long-Document Retrieval in the PLM and LLM Era, **Minghan Li**, Miyang Luo, Tianrui Lv, Yishuai Zhang, Siqi Zhao, Ercong Nie, Guodong Zhou
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
