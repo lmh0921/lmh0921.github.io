@@ -19,7 +19,7 @@ redirect_from:
 
 I joined the School of Computer Science and Technology at Soochow University in 2024, where I am currently an Associate Professor. My research lies at the intersection of information retrieval, natural language processing, and large language models. I am particularly interested in conversational search and retrieval-augmented generation, memory and reasoning for LLM-based agents, long-document retrieval and reranking, legal AI, and efficient and trustworthy LLM systems.
 
-I received my B.S. degree from Xi’an Jiaotong University, my M.S. degree from Xidian University, and my Ph.D. degree from Université Grenoble Alpes, where I was advised by Prof. Eric Gaussier. If you are interested in academic collaboration, student supervision, or research discussions, please feel free to contact me at [email].
+I received my B.S. degree from Xi’an Jiaotong University, my M.S. degree from Xidian University, and my Ph.D. degree from Université Grenoble Alpes, where I was advised by Prof. [Eric Gaussier](https://scholar.google.com/citations?user=rCpJslsAAAAJ). If you are interested in academic collaboration, student supervision, or research discussions, please feel free to contact me at [email].
 
 
 # 🔥 News
@@ -172,7 +172,7 @@ authors: **Minghan Li**, Xinxuan Lv, Junjie Zou, Tongna Chen, Chao Zhang, Suchao
 - B.S. in Information Engineering, <img src="../images/xjtu.jpg" width="18" style="vertical-align:middle;"> Xi’an Jiaotong University, China.
 
 <div style="text-align: center; margin: 2em 0;">
-  <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=R-I7z2n6MSwVEribHa1-rRgzE-ZtESbqU188cHjuTs8&amp;cl=ffffff&amp;w=a"></script>
+  <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=R-I7z2n6MSwVEribHa1-rRgzE-ZtESbqU188cHjuTs8&amp;cl=ffffff&amp;w=300"></script>
 </div>
 
 <!-- # 💬 Invited Talks
