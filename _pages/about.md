@@ -27,6 +27,8 @@ I received my B.S. degree from Xi’an Jiaotong University, my M.S. degree from 
 
 - *2026.08*: &nbsp;🎉 Three papers are accepted by EMNLP 2026: **SAGA** and **Cascade-SC** to the Main Conference, and **EviRerank** to Findings.
 
+- *2026.08*: &nbsp;🎉 **Retrieval-Feedback Aligned Distillation for Deployable LLM Query Expansion** has been accepted as an Oral paper at NLPCC 2026.
+
 - *2026.05*: &nbsp;🎉🎉 1 paper is accepted by ACM Transactions on Information Systems (TOIS): 
 
 Query Expansion in the Age of Pre-trained and Large Language Models: A Comprehensive Survey, 
@@ -141,6 +143,8 @@ authors: **Minghan Li**, Xinxuan Lv, Junjie Zou, Tongna Chen, Chao Zhang, Suchao
   <span class="paper-authors">**Minghan Li**<sup>*†</sup>, Siqi Zhao<sup>†</sup>, Luoliang Hua, Guodong Zhou</span>
 - <span class="venue-tag">EMNLP 2026 Findings</span> EviRerank: Adaptive Evidence Construction for Long-Document LLM Reranking<br>
   <span class="paper-authors">**Minghan Li**<sup>*</sup>, Eric Gaussier, Juntao Li, Guodong Zhou</span>
+- <span class="venue-tag">NLPCC 2026 Conference Oral</span> Retrieval-Feedback Aligned Distillation for Deployable LLM Query Expansion<br>
+  <span class="paper-authors">**Minghan Li**, Guodong Zhou</span>
 - <span class="venue-tag">AAAI 2026</span> RFKG-CoT: Relation-Driven Adaptive Hop-count Selection and Few-Shot Path Guidance for Knowledge-Aware QA<br>
   <span class="paper-authors">Chao Zhang, **Minghan Li**<sup>*</sup>, Tianrui Lv, Guodong Zhou</span>
 - <span class="venue-tag">COLING 2024</span> Domain Adaptation for Dense Retrieval and Conversational Dense Retrieval through Self-Supervision by Meticulous Pseudo-Relevance Labeling<br>
