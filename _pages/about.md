@@ -170,6 +170,7 @@ authors: **Minghan Li**, Xinxuan Lv, Junjie Zou, Tongna Chen, Chao Zhang, Suchao
 
 - National Natural Science Foundation of China (NSFC) grant, **Principal Investigator**.
 - Soochow University Academic Start-up Fund, **Principal Investigator**.
+- *2023* — **Domain Transfer for Conversational Search**, IDEX Université Grenoble Alpes, for a research visit to the National University of Singapore (NUS), **Principal Investigator**.
 
 # 📖 Educations
 - *2020.10 - 2023.12*, Ph.D. in Computer Science, <img src="../images/uga.png" width="18" style="vertical-align:middle;"> Université Grenoble Alpes, France.
