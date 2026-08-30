@@ -51,8 +51,7 @@ authors: **Minghan Li**, Xinxuan Lv, Junjie Zou, Tongna Chen, Chao Zhang, Suchao
 
 *Information Fusion*, 2026
 
-- Robust LLM-based query expansion and rank fusion with dual-layer prompt ensembles.
-- Corresponding author and first author.
+- Robust query expansion and rank fusion via dual-layer prompt ensembles.
 
 </div>
 </div>
@@ -73,9 +72,7 @@ authors: **Minghan Li**, Xinxuan Lv, Junjie Zou, Tongna Chen, Chao Zhang, Suchao
 
 *ACL 2026 Main Conference*
 
-- A generative legal inference framework for legal case retrieval.
-- Combines latent legal variable inference with multi-view evidence ranking.
-- Corresponding author and co-first author.
+- Generative legal inference and evidence ranking for legal case retrieval.
 
 </div>
 </div>
@@ -96,9 +93,7 @@ authors: **Minghan Li**, Xinxuan Lv, Junjie Zou, Tongna Chen, Chao Zhang, Suchao
 
 *ACL 2026 Main Conference*
 
-- An iterative RAG framework with structured sufficiency judgment and gap-guided retrieval.
-- Designed for multi-hop QA and evidence-aware iterative retrieval.
-- Corresponding author and co-first author.
+- Iterative RAG with structured sufficiency judgment and gap-guided retrieval.
 
 </div>
 </div>
@@ -119,8 +114,7 @@ authors: **Minghan Li**, Xinxuan Lv, Junjie Zou, Tongna Chen, Chao Zhang, Suchao
 
 *ACM Transactions on Information Systems*, 2023
 
-- Studies key-block selection for long document retrieval.
-- A representative journal paper on long-document IR.
+- Key-block selection with local pre-ranking for long-document retrieval.
 
 </div>
 </div>
@@ -168,7 +162,7 @@ authors: **Minghan Li**, Xinxuan Lv, Junjie Zou, Tongna Chen, Chao Zhang, Suchao
 
 # 💰 Research Grants
 
-- National Natural Science Foundation of China (NSFC) grant, **Principal Investigator**.
+- National Natural Science Foundation of China (NSFC) grant: **Research on Causality-Enhanced Memory Mechanisms for Long-Term Conversational Agents**, **Principal Investigator**.
 - Soochow University Academic Start-up Fund, **Principal Investigator**.
 - *2023* — **Domain Transfer for Conversational Search**, IDEX Université Grenoble Alpes, for a research visit to the National University of Singapore (NUS), **Principal Investigator**.
 
