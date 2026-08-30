@@ -103,14 +103,15 @@ h1:before, .anchor:before {
 .venue-tag {
     display: inline-block;
     padding: .2em .65em;
-    border: 1px solid #e2d8ca;
+    border: 1px solid #d7c8b6;
     border-radius: .3em;
-    color: #5f5448;
-    background-color: #f3eee7;
+    color: #55483a;
+    background-color: #eee7dd;
     font-size: .78em;
     font-weight: 600;
     line-height: 1.35;
     white-space: nowrap;
+    box-shadow: 0 1px 2px rgba(80, 65, 45, .12);
 }
 
 .badge {
