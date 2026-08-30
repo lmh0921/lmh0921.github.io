@@ -99,13 +99,22 @@ h1:before, .anchor:before {
     margin-top: -$scroll_offset;
 }
 
+.badge,
+.venue-tag {
+    display: inline-block;
+    padding: .2em .65em;
+    border: 1px solid #e2d8ca;
+    border-radius: .3em;
+    color: #5f5448;
+    background-color: #f3eee7;
+    font-size: .78em;
+    font-weight: 600;
+    line-height: 1.35;
+    white-space: nowrap;
+}
+
 .badge {
-    padding-left: 1rem;
-    padding-right: 1rem;
     position: absolute;
     margin-top: .5em;
     margin-left: -.5em;
-    color: white;
-    background-color: #00369f;
-    font-size: .8em;
 }

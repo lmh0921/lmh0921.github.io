@@ -19,7 +19,7 @@ redirect_from:
 
 I joined the School of Computer Science and Technology at Soochow University in 2024, where I am currently an Associate Professor. My research lies at the intersection of information retrieval, natural language processing, and large language models. I am particularly interested in conversational search and retrieval-augmented generation, memory and reasoning for LLM-based agents, long-document retrieval and reranking, legal AI, and efficient and trustworthy LLM systems.
 
-I received my B.S. degree from Xi’an Jiaotong University, my M.S. degree from Xidian University, and my Ph.D. degree from Université Grenoble Alpes, where I was advised by Prof. [Eric Gaussier](https://scholar.google.com/citations?user=rCpJslsAAAAJ). If you are interested in academic collaboration, student supervision, or research discussions, please feel free to contact me at [email].
+I received my B.S. degree from Xi’an Jiaotong University, my M.S. degree from Xidian University, and my Ph.D. degree from [Université Grenoble Alpes](https://www.univ-grenoble-alpes.fr/), France, where I was advised by Prof. [Eric Gaussier](https://scholar.google.com/citations?user=rCpJslsAAAAJ). If you are interested in academic collaboration, student supervision, or research discussions, please feel free to contact me at [email].
 
 
 # 🔥 News
@@ -34,12 +34,12 @@ Query Expansion in the Age of Pre-trained and Large Language Models: A Comprehen
 authors: **Minghan Li**, Xinxuan Lv, Junjie Zou, Tongna Chen, Chao Zhang, Suchao An, Ercong Nie, Guodong Zhou.
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📝 Publications 
+# 📝 Selected Publications
 
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">Information Fusion 2026</div>
+      <div class="badge venue-tag">Information Fusion 2026</div>
       <img src='../images/inffusion.png' alt="Dual-Layer Prompt Ensembles" width="100%">
     </div>
   </div>
@@ -60,7 +60,7 @@ authors: **Minghan Li**, Xinxuan Lv, Junjie Zou, Tongna Chen, Chao Zhang, Suchao
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">ACL 2026</div>
+      <div class="badge venue-tag">ACL 2026</div>
       <img src='../images/glier.png' alt="GLIER" width="100%">
     </div>
   </div>
@@ -81,7 +81,7 @@ authors: **Minghan Li**, Xinxuan Lv, Junjie Zou, Tongna Chen, Chao Zhang, Suchao
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">ACL 2026</div>
+      <div class="badge venue-tag">ACL 2026</div>
       <img src='../images/s2gRag.png' alt="S2G-RAG" width="100%">
     </div>
   </div>
@@ -102,7 +102,7 @@ authors: **Minghan Li**, Xinxuan Lv, Junjie Zou, Tongna Chen, Chao Zhang, Suchao
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">TOIS 2023</div>
+      <div class="badge venue-tag">TOIS 2023</div>
       <img src='../images/KeyB-TOIS.png' alt="TOIS 2023" width="100%">
     </div>
   </div>
@@ -121,21 +121,21 @@ authors: **Minghan Li**, Xinxuan Lv, Junjie Zou, Tongna Chen, Chao Zhang, Suchao
 
 ## 📚 Conference and Journal Papers
 
-- `TOIS 2026` A Survey of Long-Document Retrieval in the PLM and LLM Era, **Minghan Li**, Yishuai Zhang, Tianrui Lv, Siqi Zhao, Miyang Luo, Ercong Nie, Guodong Zhou
-- `TOIS 2026` Query Expansion in the Age of Pre-trained and Large Language Models: A Comprehensive Survey, **Minghan Li**, Xinxuan Lv, Junjie Zou, Tongna Chen, Chao Zhang, Suchao An, Ercong Nie, Guodong Zhou
-- `Information Fusion 2026` Dual-Layer Prompt Ensembles: Leveraging System-and User-Level Instructions for Robust LLM-Based Query Expansion and Rank Fusion, **Minghan Li**, Ercong Nie, Huiping Huang, Xinxuan Lv, Guodong Zhou. *First and corresponding author.*
-- `ACL 2026 Main Conference` GLIER: Generative Legal Inference and Evidence Ranking for Legal Case Retrieval, **Minghan Li**, Tianrui Lv, Chao Zhang, Guodong Zhou. *Co-first and corresponding author.*
-- `ACL 2026 Main Conference` S2G-RAG: Structured Sufficiency and Gap Judging for Iterative Retrieval-Augmented QA, **Minghan Li**, Junjie Zou, Xinxuan Lv, Chao Zhang, Guodong Zhou. *Co-first and corresponding author.*
-- `EMNLP 2026 Main Conference` SAGA: Structured Applicability-Guided Alignment for Conversational Legal Retrieval, Xinxuan Lv, **Minghan Li**, Guodong Zhou. *Co-first and corresponding author.*
-- `EMNLP 2026 Main Conference` Cascade-SC: A Pareto-Efficient Cross-Model Cascade for Test-Time Reasoning, **Minghan Li**, Siqi Zhao, Luoliang Hua, Guodong Zhou. *Co-first and corresponding author.*
-- `EMNLP 2026 Findings` EviRerank: Adaptive Evidence Construction for Long-Document LLM Reranking, **Minghan Li**, Eric Gaussier, Juntao Li, Guodong Zhou. *First and corresponding author.*
-- `AAAI 2026` RFKG-CoT: Relation-Driven Adaptive Hop-count Selection and Few-Shot Path Guidance for Knowledge-Aware QA, Chao Zhang, **Minghan Li**, Tianrui Lv, Guodong Zhou
-- `COLING 2024` Domain Adaptation for Dense Retrieval and Conversational Dense Retrieval through Self-Supervision by Meticulous Pseudo-Relevance Labeling, **Minghan Li**, Eric Gaussier
-- `TOIS 2023` The Power of Selecting Key Blocks with Local Pre-ranking for Long Document Information Retrieval, **Minghan Li**, Diana Nicoleta Popa, Johan Chagnon, Yagmur Gizem Cinar, Eric Gaussier
-- `SIGIR 2022` BERT-based Dense Intra-ranking and Contextualized Late Interaction via Multi-task Learning for Long Document Retrieval, **Minghan Li**, Eric Gaussier
-- `AAAI 2022` Listwise Learning to Rank Based on Approximate Rank Indicators, Thibaut Thonet, Yagmur Gizem Cinar, Éric Gaussier, **Minghan Li**, Jean-Michel Renders
-- `SIGIR 2021` KeyBLD: Selecting Key Blocks with Local Pre-ranking for Long Document Information Retrieval, **Minghan Li**, Eric Gaussier
-- `ICPR 2020` Learning to Rank for Active Learning: A Listwise Approach, **Minghan Li**, Xialei Liu, Joost van de Weijer, Bogdan Raducanu
+- <span class="venue-tag">TOIS 2026</span> A Survey of Long-Document Retrieval in the PLM and LLM Era, **Minghan Li**, Yishuai Zhang, Tianrui Lv, Siqi Zhao, Miyang Luo, Ercong Nie, Guodong Zhou
+- <span class="venue-tag">TOIS 2026</span> Query Expansion in the Age of Pre-trained and Large Language Models: A Comprehensive Survey, **Minghan Li**, Xinxuan Lv, Junjie Zou, Tongna Chen, Chao Zhang, Suchao An, Ercong Nie, Guodong Zhou
+- <span class="venue-tag">Information Fusion 2026</span> Dual-Layer Prompt Ensembles: Leveraging System-and User-Level Instructions for Robust LLM-Based Query Expansion and Rank Fusion, **Minghan Li**, Ercong Nie, Huiping Huang, Xinxuan Lv, Guodong Zhou. *First and corresponding author.*
+- <span class="venue-tag">ACL 2026 Main Conference</span> GLIER: Generative Legal Inference and Evidence Ranking for Legal Case Retrieval, **Minghan Li**, Tianrui Lv, Chao Zhang, Guodong Zhou. *Co-first and corresponding author.*
+- <span class="venue-tag">ACL 2026 Main Conference</span> S2G-RAG: Structured Sufficiency and Gap Judging for Iterative Retrieval-Augmented QA, **Minghan Li**, Junjie Zou, Xinxuan Lv, Chao Zhang, Guodong Zhou. *Co-first and corresponding author.*
+- <span class="venue-tag">EMNLP 2026 Main Conference</span> SAGA: Structured Applicability-Guided Alignment for Conversational Legal Retrieval, Xinxuan Lv, **Minghan Li**, Guodong Zhou. *Co-first and corresponding author.*
+- <span class="venue-tag">EMNLP 2026 Main Conference</span> Cascade-SC: A Pareto-Efficient Cross-Model Cascade for Test-Time Reasoning, **Minghan Li**, Siqi Zhao, Luoliang Hua, Guodong Zhou. *Co-first and corresponding author.*
+- <span class="venue-tag">EMNLP 2026 Findings</span> EviRerank: Adaptive Evidence Construction for Long-Document LLM Reranking, **Minghan Li**, Eric Gaussier, Juntao Li, Guodong Zhou. *First and corresponding author.*
+- <span class="venue-tag">AAAI 2026</span> RFKG-CoT: Relation-Driven Adaptive Hop-count Selection and Few-Shot Path Guidance for Knowledge-Aware QA, Chao Zhang, **Minghan Li**, Tianrui Lv, Guodong Zhou
+- <span class="venue-tag">COLING 2024</span> Domain Adaptation for Dense Retrieval and Conversational Dense Retrieval through Self-Supervision by Meticulous Pseudo-Relevance Labeling, **Minghan Li**, Eric Gaussier
+- <span class="venue-tag">TOIS 2023</span> The Power of Selecting Key Blocks with Local Pre-ranking for Long Document Information Retrieval, **Minghan Li**, Diana Nicoleta Popa, Johan Chagnon, Yagmur Gizem Cinar, Eric Gaussier
+- <span class="venue-tag">SIGIR 2022</span> BERT-based Dense Intra-ranking and Contextualized Late Interaction via Multi-task Learning for Long Document Retrieval, **Minghan Li**, Eric Gaussier
+- <span class="venue-tag">AAAI 2022</span> Listwise Learning to Rank Based on Approximate Rank Indicators, Thibaut Thonet, Yagmur Gizem Cinar, Éric Gaussier, **Minghan Li**, Jean-Michel Renders
+- <span class="venue-tag">SIGIR 2021</span> KeyBLD: Selecting Key Blocks with Local Pre-ranking for Long Document Information Retrieval, **Minghan Li**, Eric Gaussier
+- <span class="venue-tag">ICPR 2020</span> Learning to Rank for Active Learning: A Listwise Approach, **Minghan Li**, Xialei Liu, Joost van de Weijer, Bogdan Raducanu
 
 ## 🗂 Preprints and Surveys
 
@@ -167,7 +167,7 @@ authors: **Minghan Li**, Xinxuan Lv, Junjie Zou, Tongna Chen, Chao Zhang, Suchao
 - *2023* — **Domain Transfer for Conversational Search**, IDEX Université Grenoble Alpes, for a research visit to the National University of Singapore (NUS), **Principal Investigator**.
 
 # 📖 Educations
-- *2020.10 - 2023.12*, Ph.D. in Computer Science, <img src="../images/uga.png" width="18" style="vertical-align:middle;"> Université Grenoble Alpes, France.
+- *2020.10 - 2023.12*, Ph.D. in Computer Science, <img src="../images/uga.png" width="18" style="vertical-align:middle;"> [Université Grenoble Alpes](https://www.univ-grenoble-alpes.fr/), France.
 - M.S. in Computer Technology, <img src="../images/xidian.png" width="18" style="vertical-align:middle;"> Xidian University, China.
 - B.S. in Information Engineering, <img src="../images/xjtu.jpg" width="18" style="vertical-align:middle;"> Xi’an Jiaotong University, China.
 
