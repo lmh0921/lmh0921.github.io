@@ -36,6 +36,8 @@ authors: **Minghan Li**, Xinxuan Lv, Junjie Zou, Tongna Chen, Chao Zhang, Suchao
 
 # 📝 Selected Publications
 
+<small><sup>*</sup> Corresponding author; <sup>†</sup> Co-first author.</small>
+
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -47,9 +49,9 @@ authors: **Minghan Li**, Xinxuan Lv, Junjie Zou, Tongna Chen, Chao Zhang, Suchao
 
 [Dual-Layer Prompt Ensembles: Leveraging System-and User-Level Instructions for Robust LLM-Based Query Expansion and Rank Fusion](#)
 
-**Minghan Li**, Ercong Nie, Huiping Huang, Xinxuan Lv, Guodong Zhou
+**Minghan Li**<sup>*</sup>, Ercong Nie, Huiping Huang, Xinxuan Lv, Guodong Zhou
 
-*Information Fusion*, 2026
+*Information Fusion*, 2026 (JCR Q1, CAAI-A, IF 17.4)
 
 - Robust query expansion and rank fusion via dual-layer prompt ensembles.
 
@@ -68,7 +70,7 @@ authors: **Minghan Li**, Xinxuan Lv, Junjie Zou, Tongna Chen, Chao Zhang, Suchao
 
 [GLIER: Generative Legal Inference and Evidence Ranking for Legal Case Retrieval](#)
 
-**Minghan Li**, Tianrui Lv, Chao Zhang, Guodong Zhou
+**Minghan Li**<sup>*†</sup>, Tianrui Lv<sup>†</sup>, Chao Zhang, Guodong Zhou
 
 *ACL 2026 Main Conference*
 
@@ -89,7 +91,7 @@ authors: **Minghan Li**, Xinxuan Lv, Junjie Zou, Tongna Chen, Chao Zhang, Suchao
 
 [S2G-RAG: Structured Sufficiency and Gap Judging for Iterative Retrieval-Augmented QA](#)
 
-**Minghan Li**, Junjie Zou, Xinxuan Lv, Chao Zhang, Guodong Zhou
+**Minghan Li**<sup>*†</sup>, Junjie Zou<sup>†</sup>, Xinxuan Lv, Chao Zhang, Guodong Zhou
 
 *ACL 2026 Main Conference*
 
@@ -112,7 +114,7 @@ authors: **Minghan Li**, Xinxuan Lv, Junjie Zou, Tongna Chen, Chao Zhang, Suchao
 
 **Minghan Li**, Diana Nicoleta Popa, Johan Chagnon, Yagmur Gizem Cinar, Eric Gaussier
 
-*ACM Transactions on Information Systems*, 2023
+*ACM Transactions on Information Systems*, 2023 (JCR Q1, **CCF-A**, IF 11.2)
 
 - Key-block selection with local pre-ranking for long-document retrieval.
 
@@ -121,17 +123,19 @@ authors: **Minghan Li**, Xinxuan Lv, Junjie Zou, Tongna Chen, Chao Zhang, Suchao
 
 ## 📚 Conference and Journal Papers
 
-- <span class="venue-tag">TOIS 2026</span> A Survey of Long-Document Retrieval in the PLM and LLM Era, **Minghan Li**, Yishuai Zhang, Tianrui Lv, Siqi Zhao, Miyang Luo, Ercong Nie, Guodong Zhou
-- <span class="venue-tag">TOIS 2026</span> Query Expansion in the Age of Pre-trained and Large Language Models: A Comprehensive Survey, **Minghan Li**, Xinxuan Lv, Junjie Zou, Tongna Chen, Chao Zhang, Suchao An, Ercong Nie, Guodong Zhou
-- <span class="venue-tag">Information Fusion 2026</span> Dual-Layer Prompt Ensembles: Leveraging System-and User-Level Instructions for Robust LLM-Based Query Expansion and Rank Fusion, **Minghan Li**, Ercong Nie, Huiping Huang, Xinxuan Lv, Guodong Zhou. *First and corresponding author.*
-- <span class="venue-tag">ACL 2026 Main Conference</span> GLIER: Generative Legal Inference and Evidence Ranking for Legal Case Retrieval, **Minghan Li**, Tianrui Lv, Chao Zhang, Guodong Zhou. *Co-first and corresponding author.*
-- <span class="venue-tag">ACL 2026 Main Conference</span> S2G-RAG: Structured Sufficiency and Gap Judging for Iterative Retrieval-Augmented QA, **Minghan Li**, Junjie Zou, Xinxuan Lv, Chao Zhang, Guodong Zhou. *Co-first and corresponding author.*
-- <span class="venue-tag">EMNLP 2026 Main Conference</span> SAGA: Structured Applicability-Guided Alignment for Conversational Legal Retrieval, Xinxuan Lv, **Minghan Li**, Guodong Zhou. *Co-first and corresponding author.*
-- <span class="venue-tag">EMNLP 2026 Main Conference</span> Cascade-SC: A Pareto-Efficient Cross-Model Cascade for Test-Time Reasoning, **Minghan Li**, Siqi Zhao, Luoliang Hua, Guodong Zhou. *Co-first and corresponding author.*
-- <span class="venue-tag">EMNLP 2026 Findings</span> EviRerank: Adaptive Evidence Construction for Long-Document LLM Reranking, **Minghan Li**, Eric Gaussier, Juntao Li, Guodong Zhou. *First and corresponding author.*
-- <span class="venue-tag">AAAI 2026</span> RFKG-CoT: Relation-Driven Adaptive Hop-count Selection and Few-Shot Path Guidance for Knowledge-Aware QA, Chao Zhang, **Minghan Li**, Tianrui Lv, Guodong Zhou
+<small><sup>*</sup> Corresponding author; <sup>†</sup> Co-first author.</small>
+
+- <span class="venue-tag">TOIS 2026</span> A Survey of Long-Document Retrieval in the PLM and LLM Era, **Minghan Li**, Yishuai Zhang, Tianrui Lv, Siqi Zhao, Miyang Luo, Ercong Nie, Guodong Zhou (JCR Q1, **CCF-A**, IF 11.2)
+- <span class="venue-tag">TOIS 2026</span> Query Expansion in the Age of Pre-trained and Large Language Models: A Comprehensive Survey, **Minghan Li**, Xinxuan Lv, Junjie Zou, Tongna Chen, Chao Zhang, Suchao An, Ercong Nie, Guodong Zhou (JCR Q1, **CCF-A**, IF 11.2)
+- <span class="venue-tag">Information Fusion 2026</span> Dual-Layer Prompt Ensembles: Leveraging System-and User-Level Instructions for Robust LLM-Based Query Expansion and Rank Fusion, **Minghan Li**<sup>*</sup>, Ercong Nie, Huiping Huang, Xinxuan Lv, Guodong Zhou (JCR Q1, CAAI-A, IF 17.4)
+- <span class="venue-tag">ACL 2026 Main Conference</span> GLIER: Generative Legal Inference and Evidence Ranking for Legal Case Retrieval, **Minghan Li**<sup>*†</sup>, Tianrui Lv<sup>†</sup>, Chao Zhang, Guodong Zhou
+- <span class="venue-tag">ACL 2026 Main Conference</span> S2G-RAG: Structured Sufficiency and Gap Judging for Iterative Retrieval-Augmented QA, **Minghan Li**<sup>*†</sup>, Junjie Zou<sup>†</sup>, Xinxuan Lv, Chao Zhang, Guodong Zhou
+- <span class="venue-tag">EMNLP 2026 Main Conference</span> SAGA: Structured Applicability-Guided Alignment for Conversational Legal Retrieval, Xinxuan Lv<sup>†</sup>, **Minghan Li**<sup>*†</sup>, Guodong Zhou
+- <span class="venue-tag">EMNLP 2026 Main Conference</span> Cascade-SC: A Pareto-Efficient Cross-Model Cascade for Test-Time Reasoning, **Minghan Li**<sup>*†</sup>, Siqi Zhao<sup>†</sup>, Luoliang Hua, Guodong Zhou
+- <span class="venue-tag">EMNLP 2026 Findings</span> EviRerank: Adaptive Evidence Construction for Long-Document LLM Reranking, **Minghan Li**<sup>*</sup>, Eric Gaussier, Juntao Li, Guodong Zhou
+- <span class="venue-tag">AAAI 2026</span> RFKG-CoT: Relation-Driven Adaptive Hop-count Selection and Few-Shot Path Guidance for Knowledge-Aware QA, Chao Zhang, **Minghan Li**<sup>*</sup>, Tianrui Lv, Guodong Zhou
 - <span class="venue-tag">COLING 2024</span> Domain Adaptation for Dense Retrieval and Conversational Dense Retrieval through Self-Supervision by Meticulous Pseudo-Relevance Labeling, **Minghan Li**, Eric Gaussier
-- <span class="venue-tag">TOIS 2023</span> The Power of Selecting Key Blocks with Local Pre-ranking for Long Document Information Retrieval, **Minghan Li**, Diana Nicoleta Popa, Johan Chagnon, Yagmur Gizem Cinar, Eric Gaussier
+- <span class="venue-tag">TOIS 2023</span> The Power of Selecting Key Blocks with Local Pre-ranking for Long Document Information Retrieval, **Minghan Li**, Diana Nicoleta Popa, Johan Chagnon, Yagmur Gizem Cinar, Eric Gaussier (JCR Q1, **CCF-A**, IF 11.2)
 - <span class="venue-tag">SIGIR 2022</span> BERT-based Dense Intra-ranking and Contextualized Late Interaction via Multi-task Learning for Long Document Retrieval, **Minghan Li**, Eric Gaussier
 - <span class="venue-tag">AAAI 2022</span> Listwise Learning to Rank Based on Approximate Rank Indicators, Thibaut Thonet, Yagmur Gizem Cinar, Éric Gaussier, **Minghan Li**, Jean-Michel Renders
 - <span class="venue-tag">SIGIR 2021</span> KeyBLD: Selecting Key Blocks with Local Pre-ranking for Long Document Information Retrieval, **Minghan Li**, Eric Gaussier
