@@ -172,8 +172,8 @@ I received my B.S. degree from Xi’an Jiaotong University, my M.S. degree from 
 
 <!-- # 📖 Educations
 - Ph.D. in Computer Science, Université Grenoble Alpes, France.
-- M.S. in Computer Technology, Xidian University, China.
-- B.E. in Information Engineering, Xi’an Jiaotong University, China. -->
+- M.S. in Computer Technology, [Xidian University](https://en.xidian.edu.cn/), China.
+- B.E. in Information Engineering, [Xi’an Jiaotong University](https://en.xjtu.edu.cn/), China. -->
 
 # 💰 Research Grants
 
@@ -183,8 +183,8 @@ I received my B.S. degree from Xi’an Jiaotong University, my M.S. degree from 
 
 # 📖 Educations
 - Ph.D. in Computer Science, <img src="../images/uga.png" width="18" style="vertical-align:middle;"> [Université Grenoble Alpes](https://www.univ-grenoble-alpes.fr/), France.
-- M.S. in Computer Technology, <img src="../images/xidian.png" width="18" style="vertical-align:middle;"> Xidian University, China.
-- B.S. in Information Engineering, <img src="../images/xjtu.jpg" width="18" style="vertical-align:middle;"> Xi’an Jiaotong University, China.
+- M.S. in Computer Technology, <img src="../images/xidian.png" width="18" style="vertical-align:middle;"> [Xidian University](https://en.xidian.edu.cn/), China.
+- B.S. in Information Engineering, <img src="../images/xjtu.jpg" width="18" style="vertical-align:middle;"> [Xi’an Jiaotong University](https://en.xjtu.edu.cn/), China.
 
 <div style="text-align: center; margin: 2em 0;">
   <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=R-I7z2n6MSwVEribHa1-rRgzE-ZtESbqU188cHjuTs8&amp;cl=ffffff&amp;w=300"></script>
