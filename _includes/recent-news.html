@@ -1,0 +1,5 @@
+<ul class="research-news">
+{% for item in site.data.news %}
+  <li><time>{{ item.date }}</time><div>{{ item.text | markdownify }}</div></li>
+{% endfor %}
+</ul>

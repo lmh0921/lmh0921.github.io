@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Research Group"
+    url: "/group/"
+
   - title: "About Me"
     url: "/#about-me"
 

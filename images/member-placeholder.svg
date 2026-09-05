@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 480" role="img" aria-labelledby="title desc">
+  <title id="title">Member portrait placeholder</title>
+  <desc id="desc">A neutral placeholder silhouette for a research group member.</desc>
+  <rect width="480" height="480" fill="#eef1f0"/>
+  <circle cx="240" cy="178" r="76" fill="#c8d0cf"/>
+  <path d="M96 414c14-89 70-136 144-136s130 47 144 136" fill="#c8d0cf"/>
+  <path d="M0 0h480v480H0z" fill="none" stroke="#dce2e0" stroke-width="8"/>
+</svg>

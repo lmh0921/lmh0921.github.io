@@ -17,24 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+<div class="profile-heading"><p class="eyebrow">SOOCHOW UNIVERSITY</p><h1>Minghan Li</h1><p>Associate Professor · Information Retrieval & Language AI</p></div>
+
 I joined the School of Computer Science and Technology at Soochow University in 2024, where I am currently an Associate Professor. My research lies at the intersection of information retrieval, natural language processing, and large language models. I am particularly interested in conversational search and retrieval-augmented generation, memory and reasoning for LLM-based agents, long-document retrieval and reranking, legal AI, and efficient and trustworthy LLM systems.
 
-I received my B.S. degree from Xi’an Jiaotong University, my M.S. degree from Xidian University, and my Ph.D. degree from [Université Grenoble Alpes](https://www.univ-grenoble-alpes.fr/), France, where I was advised by Prof. [Eric Gaussier](https://scholar.google.com/citations?user=rCpJslsAAAAJ). If you are interested in academic collaboration, student supervision, or research discussions, please feel free to contact me at [email].
+I received my B.S. degree from Xi’an Jiaotong University, my M.S. degree from Xidian University, and my Ph.D. degree from [Université Grenoble Alpes](https://www.univ-grenoble-alpes.fr/), France, where I was advised by Prof. [Eric Gaussier](https://scholar.google.com/citations?user=rCpJslsAAAAJ). If you are interested in academic collaboration, student supervision, or research discussions, please feel free to contact me by [email](mailto:{{ site.author.email }}).
 
+
+<a class="group-invitation" href="{{ '/group/' | relative_url }}"><span><small>RESEARCH GROUP</small><strong>{{ site.data.group.tagline }}</strong><span>{{ site.data.group.name }} ({{ site.data.group.short_name }})</span></span><span aria-hidden="true">↗</span></a>
 
 # 🔥 News
-- *2026.08*: &nbsp;🎉 Our survey paper, **A Survey of Long-Document Retrieval in the PLM and LLM Era**, has been accepted for publication in ACM Transactions on Information Systems (TOIS).
 
-- *2026.08*: &nbsp;🎉 Three papers are accepted by EMNLP 2026: **SAGA** and **Cascade-SC** to the Main Conference, and **EviRerank** to Findings.
-
-- *2026.08*: &nbsp;🎉 **Retrieval-Feedback Aligned Distillation for Deployable LLM Query Expansion** has been accepted as an Oral paper at NLPCC 2026.
-
-- *2026.05*: &nbsp;🎉🎉 1 paper is accepted by ACM Transactions on Information Systems (TOIS): 
-
-Query Expansion in the Age of Pre-trained and Large Language Models: A Comprehensive Survey, 
-
-authors: **Minghan Li**, Xinxuan Lv, Junjie Zou, Tongna Chen, Chao Zhang, Suchao An, Ercong Nie, Guodong Zhou.
-<!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+{% include recent-news.html %}
 
 # 📝 Selected Publications
 
@@ -179,7 +173,7 @@ authors: **Minghan Li**, Xinxuan Lv, Junjie Zou, Tongna Chen, Chao Zhang, Suchao
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 <!-- # 📖 Educations
-- *2020.10 - 2023.12*, Ph.D. in Computer Science, Université Grenoble Alpes, France.
+- Ph.D. in Computer Science, Université Grenoble Alpes, France.
 - M.S. in Computer Technology, Xidian University, China.
 - B.E. in Information Engineering, Xi’an Jiaotong University, China. -->
 
@@ -190,7 +184,7 @@ authors: **Minghan Li**, Xinxuan Lv, Junjie Zou, Tongna Chen, Chao Zhang, Suchao
 - *2023* — **Domain Transfer for Conversational Search**, IDEX Université Grenoble Alpes, for a research visit to the National University of Singapore (NUS), **Principal Investigator**.
 
 # 📖 Educations
-- *2020.10 - 2023.12*, Ph.D. in Computer Science, <img src="../images/uga.png" width="18" style="vertical-align:middle;"> [Université Grenoble Alpes](https://www.univ-grenoble-alpes.fr/), France.
+- Ph.D. in Computer Science, <img src="../images/uga.png" width="18" style="vertical-align:middle;"> [Université Grenoble Alpes](https://www.univ-grenoble-alpes.fr/), France.
 - M.S. in Computer Technology, <img src="../images/xidian.png" width="18" style="vertical-align:middle;"> Xidian University, China.
 - B.S. in Information Engineering, <img src="../images/xjtu.jpg" width="18" style="vertical-align:middle;"> Xi’an Jiaotong University, China.
 

@@ -1,0 +1,82 @@
+short_name: SUGAR
+name: Soochow University Group of Advanced Retrieval
+name_words:
+  - initial: S
+    remainder: oochow
+  - initial: U
+    remainder: niversity
+  - initial: G
+    remainder: roup
+  - initial: A
+    remainder: dvanced
+  - initial: R
+    remainder: etrieval
+tagline: Search, memory & reasoning for language AI.
+description: SUGAR is an NLP research group within the NLP Lab at the School of Computer Science and Technology, Soochow University. We study how language models retrieve evidence, retain useful knowledge, and reason over it, with applications in conversational search and legal AI.
+areas:
+  - title: Search & RAG
+    description: Conversational search, long-document retrieval, query expansion, and evidence-aware reranking.
+  - title: Agent memory & reasoning
+    description: Long-term conversational memory, causality-enhanced memory mechanisms, and efficient LLM reasoning.
+  - title: Legal AI
+    description: Legal case retrieval, legal inference, and evidence ranking for knowledge-intensive tasks.
+people:
+  - title: Faculty
+    members:
+      - name: Minghan Li
+        role: Associate Professor · Group Lead
+        image: /images/member-placeholder.svg
+  - title: Master's Students · Year 3
+    members:
+      - name: Chao Zhang
+        role: Master's Student · Year 3
+        image: /images/member-placeholder.svg
+  - title: Master's Students · Year 2
+    members:
+      - name: Suchao An
+        role: Master's Student · Year 2
+        image: /images/member-placeholder.svg
+      - name: Tongna Chen
+        role: Master's Student · Year 2
+        image: /images/member-placeholder.svg
+      - name: Tianrui Lv
+        role: Master's Student · Year 2
+        image: /images/member-placeholder.svg
+      - name: Xinxuan Lv
+        role: Master's Student · Year 2
+        image: /images/member-placeholder.svg
+        note: Co-supervised with Prof. Guodong Zhou
+      - name: Yishuai Zhang
+        role: Master's Student · Year 2
+        image: /images/member-placeholder.svg
+      - name: Siqi Zhao
+        role: Master's Student · Year 2
+        image: /images/member-placeholder.svg
+      - name: Junjie Zou
+        role: Master's Student · Year 2
+        image: /images/member-placeholder.svg
+        note: Co-supervised with Prof. Guodong Zhou
+  - title: Master's Students · Year 1
+    members:
+      - name: Xiaoping Chen
+        role: Master's Student · Year 1
+        image: /images/member-placeholder.svg
+      - name: Luyao Li
+        role: Master's Student · Year 1
+        image: /images/member-placeholder.svg
+      - name: Jifeng Sun
+        role: Master's Student · Year 1
+        image: /images/member-placeholder.svg
+      - name: Hongshuo Xiao
+        role: Master's Student · Year 1
+        image: /images/member-placeholder.svg
+        note: Co-supervised with Prof. Guodong Zhou
+      - name: Qingyu Zhou
+        role: Master's Student · Year 1
+        image: /images/member-placeholder.svg
+      - name: Tong Zhu
+        role: Master's Student · Year 1
+        image: /images/member-placeholder.svg
+undergraduate:
+  title: Undergraduate Students
+  message: Coming soon.
