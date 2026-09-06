@@ -7,6 +7,7 @@ a:focus-visible { outline: 3px solid #9d753c; outline-offset: 4px; }
 .profile-heading { margin: 1.5em 0 1.2em; }
 .page__content .profile-heading h1 { margin: .25em 0; padding: 0; border: 0; color: var(--research-ink); font-size: 2.2em; }
 .profile-heading > p:last-child { color: var(--research-muted); }
+.author__avatar img { width: 120px; height: 120px; max-width: 120px; min-width: 0; padding: 9px; box-sizing: border-box; object-fit: contain; background: #fff; border: 1px solid #dce2e0; }
 .group-invitation { display: flex; align-items: center; justify-content: space-between; gap: 1em; width: min(100% - 2em, 680px); padding: .8em 1.1em; margin: 1.15em auto 1.5em; background: #eef3f4; border: 1px solid #d8e2e4; border-radius: 6px; box-shadow: 0 3px 10px rgba(33, 60, 81, .08); text-decoration: none !important; color: var(--research-ink); }
 .group-invitation:hover { background: #e5eef0; border-color: #c7d8dc; color: var(--research-ink); }
 .group-invitation small { font-size: .66em; letter-spacing: .13em; }
@@ -68,6 +69,7 @@ a:focus-visible { outline: 3px solid #9d753c; outline-offset: 4px; }
   .group-work { display: block; }
   .research-news li { grid-template-columns: 1fr; gap: .3em; }
   .group-invitation { padding: 1em; }
+  .author__avatar img { width: 96px; height: 96px; max-width: 96px; padding: 7px; }
   .paper-authors { margin-left: .6em; }
 }
 @media (min-width: 681px) and (max-width: 980px) {
