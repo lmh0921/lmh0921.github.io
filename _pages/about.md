@@ -36,7 +36,7 @@ I received my B.S. degree from Xi’an Jiaotong University, my M.S. degree from 
   <div class='paper-box-image'>
     <div>
       <div class="badge venue-tag">EMNLP 2026 Findings</div>
-      <img src='../images/evirerank-figure1.png' alt="EviRerank effectiveness and latency comparison" width="100%">
+      <img src='../images/evirerank-figure2.png' alt="EviRerank framework architecture" width="100%">
     </div>
   </div>
   <div class='paper-box-text'>
