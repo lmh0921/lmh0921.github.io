@@ -27,6 +27,10 @@ layout: compress
       </article>
     </div>
 
+    {% if page.permalink == '/' or page.permalink == '/group/' %}
+    <footer class="site-icon-credit"><a href="https://www.flaticon.com/free-icon/sugar-cube_7018755">Sugar cube icon by zafdesign on Flaticon</a></footer>
+    {% endif %}
+
     {% include scripts.html %}
 
   </body>
