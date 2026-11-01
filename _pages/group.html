@@ -7,19 +7,18 @@ body_class: group-page
 ---
 <div class="group-hero">
   <p class="eyebrow">SOOCHOW UNIVERSITY · NLP LAB</p>
-  <p class="group-label">{{ site.data.group.short_name }}</p>
   <h1 class="group-name-title">{% for word in site.data.group.name_words %}<span class="sugar-initial">{{ word.initial }}</span>{{ word.remainder }}{% unless forloop.last %}{% if forloop.index == 3 %} of {% else %} {% endif %}{% endunless %}{% endfor %} <span class="group-acronym">({{ site.data.group.short_name }})</span></h1>
   <p class="group-kicker">{{ site.data.group.tagline }}</p>
   <p class="group-intro">{{ site.data.group.description }}</p>
-  <div class="research-actions">
-    <a href="{{ '/' | relative_url }}#-selected-publications">Explore our research →</a>
-  </div>
   <p class="group-affiliation">Led by <a href="{{ '/' | relative_url }}">Minghan Li</a>, Associate Professor at Soochow University.</p>
+  <nav class="group-quick-links" aria-label="Research group sections">
+    <a href="#directions">Research</a><a href="#people">People</a><a href="#updates">News</a><a href="{{ '/' | relative_url }}#-selected-publications">Publications <span aria-hidden="true">↗</span></a>
+  </nav>
 </div>
 
 <section class="group-section" aria-labelledby="directions">
   <p class="eyebrow">RESEARCH DIRECTIONS</p>
-  <h2 id="directions">From finding evidence to reasoning with it.</h2>
+  <h2 id="directions">Research areas</h2>
   <div class="research-grid">
     {% for area in site.data.group.areas %}
     <article class="research-card">
@@ -33,8 +32,7 @@ body_class: group-page
 
 <section class="group-section group-people" aria-labelledby="people">
   <p class="eyebrow">PEOPLE</p>
-  <h2 id="people">Meet the people behind SUGAR.</h2>
-  <p class="people-intro">Our group brings together researchers working on retrieval, language models, memory, reasoning, and legal AI.</p>
+  <h2 id="people">Our people</h2>
   {% for cohort in site.data.group.people %}
   <div class="cohort-block">
     <h3 class="cohort-title">{{ cohort.title }}</h3>
@@ -60,7 +58,7 @@ body_class: group-page
 
 <section class="group-section" aria-labelledby="updates">
   <p class="eyebrow">RECENT UPDATES</p>
-  <h2 id="updates">News from our research.</h2>
+  <h2 id="updates">Latest news</h2>
   {% include recent-news.html %}
 </section>
 
