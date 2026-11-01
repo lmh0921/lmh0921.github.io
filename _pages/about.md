@@ -39,16 +39,11 @@ I received my B.S. degree from Xi’an Jiaotong University, my M.S. degree from 
       <img src='../images/evirerank-figure1.png' alt="EviRerank effectiveness and latency comparison" width="100%">
     </div>
   </div>
-  <div class='paper-box-text' markdown="1">
-
-[EviRerank: Adaptive Evidence Construction for Long-Document LLM Reranking](https://aclanthology.org/2026.findings-emnlp.704/)
-
-**Minghan Li**<sup>*</sup>, Eric Gaussier, Juntao Li, Guodong Zhou
-
-*EMNLP 2026 Findings*
-
-- Adaptive evidence construction for efficient long-document LLM reranking.
-
+  <div class='paper-box-text'>
+    <p><a href="https://aclanthology.org/2026.findings-emnlp.704/">EviRerank: Adaptive Evidence Construction for Long-Document LLM Reranking</a></p>
+    <p><strong>Minghan Li</strong><sup>*</sup>, Eric Gaussier, Juntao Li, Guodong Zhou</p>
+    <p><em>EMNLP 2026 Findings</em></p>
+    <ul><li>Adaptive evidence construction for efficient long-document LLM reranking.</li></ul>
   </div>
 </div>
 
@@ -135,7 +130,7 @@ I received my B.S. degree from Xi’an Jiaotong University, my M.S. degree from 
 </div>
 </div>
 
-## 📚 Conference and Journal Papers
+<h2 id="-conference-and-journal-papers">📚 Conference and Journal Papers</h2>
 
 <small><sup>*</sup> Corresponding author; <sup>†</sup> Co-first author.</small>
 
@@ -174,7 +169,7 @@ I received my B.S. degree from Xi’an Jiaotong University, my M.S. degree from 
 - <span class="venue-tag">ICPR 2020</span> Learning to Rank for Active Learning: A Listwise Approach<br>
   <span class="paper-authors">**Minghan Li**, Xialei Liu, Joost van de Weijer, Bogdan Raducanu</span>
 
-## 🗂 Preprints and Surveys
+<h2 id="-preprints-and-surveys">🗂 Preprints and Surveys</h2>
 
 - `arXiv 2026` Automatic In-Domain Exemplar Construction and LLM-Based Refinement of Multi-LLM Expansions for Query Expansion, **Minghan Li**, Ercong Nie, Siqi Zhao, Tongna Chen, Huiping Huang, Guodong Zhou
 - `arXiv 2026` Retrieval-Feedback-Driven Distillation and Preference Alignment for Efficient LLM-based Query Expansion, **Minghan Li**, Guodong Zhou
