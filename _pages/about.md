@@ -137,6 +137,8 @@ I received my B.S. degree from Xi’an Jiaotong University, my M.S. degree from 
   <span class="paper-authors">**Minghan Li**<sup>*</sup>, Eric Gaussier, Juntao Li, Guodong Zhou</span>
 - <span class="venue-tag">NLPCC 2026 Conference Oral</span> Retrieval-Feedback Aligned Distillation for Deployable LLM Query Expansion<br>
   <span class="paper-authors">**Minghan Li**, Guodong Zhou</span>
+- <span class="venue-tag">AACL-IJCNLP 2026</span> GenState-AI: State-Aware Dataset for Text-to-Video Retrieval on AI-Generated Videos<br>
+  <span class="paper-authors">**Minghan Li**<sup>*†</sup>, Tongna Chen<sup>†</sup>, Tianrui Lv<sup>†</sup>, Yishuai Zhang, Suchao An, Guodong Zhou</span>
 - <span class="venue-tag">AAAI 2026</span> RFKG-CoT: Relation-Driven Adaptive Hop-count Selection and Few-Shot Path Guidance for Knowledge-Aware QA<br>
   <span class="paper-authors">Chao Zhang, **Minghan Li**<sup>*</sup>, Tianrui Lv, Guodong Zhou</span>
 - <span class="venue-tag">COLING 2024</span> Domain Adaptation for Dense Retrieval and Conversational Dense Retrieval through Self-Supervision by Meticulous Pseudo-Relevance Labeling<br>
@@ -155,7 +157,6 @@ I received my B.S. degree from Xi’an Jiaotong University, my M.S. degree from 
 ## 🗂 Preprints and Surveys
 
 - `arXiv 2026` Automatic In-Domain Exemplar Construction and LLM-Based Refinement of Multi-LLM Expansions for Query Expansion, **Minghan Li**, Ercong Nie, Siqi Zhao, Tongna Chen, Huiping Huang, Guodong Zhou
-- `arXiv 2026` GenState-AI: State-Aware Dataset for Text-to-Video Retrieval on AI-Generated Videos, **Minghan Li**, Tongna Chen, Tianrui Lv, Yishuai Zhang, Suchao An, Guodong Zhou
 - `arXiv 2026` Retrieval-Feedback-Driven Distillation and Preference Alignment for Efficient LLM-based Query Expansion, **Minghan Li**, Guodong Zhou
 - `arXiv 2025` Enhanced Retrieval of Long Documents: Leveraging Fine-Grained Block Representations with Large Language Models, **Minghan Li**, Eric Gaussier, Guodong Zhou
 
