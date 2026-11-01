@@ -4,6 +4,7 @@ a { color: #285970; }
 a:focus-visible { outline: 3px solid #9d753c; outline-offset: 4px; }
 .masthead { border-bottom: 1px solid var(--research-line); }
 .eyebrow { font-size: 11px; letter-spacing: .16em; font-weight: 700; color: var(--research-muted); }
+.sugar-icon { display: inline-block; width: 1.2em; height: 1.2em; margin-left: .25em; vertical-align: -.2em; opacity: .65; }
 .profile-heading { margin: 1.5em 0 1.2em; }
 .page__content .profile-heading h1 { margin: .25em 0; padding: 0; border: 0; color: var(--research-ink); font-size: 2.2em; }
 .profile-heading > p:last-child { color: var(--research-muted); }

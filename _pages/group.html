@@ -7,7 +7,7 @@ body_class: group-page
 ---
 <div class="group-hero">
   <p class="eyebrow">SOOCHOW UNIVERSITY · NLP LAB</p>
-  <h1 class="group-name-title">{% for word in site.data.group.name_words %}<span class="sugar-initial">{{ word.initial }}</span>{{ word.remainder }}{% unless forloop.last %}{% if forloop.index == 3 %} of {% else %} {% endif %}{% endunless %}{% endfor %} <span class="group-acronym">({{ site.data.group.short_name }})</span></h1>
+  <h1 class="group-name-title">{% for word in site.data.group.name_words %}<span class="sugar-initial">{{ word.initial }}</span>{{ word.remainder }}{% unless forloop.last %}{% if forloop.index == 3 %} of {% else %} {% endif %}{% endunless %}{% endfor %} <span class="group-acronym">({{ site.data.group.short_name }}) <img class="sugar-icon" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Sugar_cubes_Pinhead_icon.svg" alt=""></span></h1>
   <p class="group-kicker">{{ site.data.group.tagline }}</p>
   <p class="group-intro">{{ site.data.group.description }}</p>
   <p class="group-affiliation">Led by <a href="{{ '/' | relative_url }}">Minghan Li</a>, Associate Professor at Soochow University.</p>
