@@ -35,6 +35,26 @@ I received my B.S. degree from Xi’an Jiaotong University, my M.S. degree from 
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
+      <div class="badge venue-tag">EMNLP 2026 Findings</div>
+      <img src='../images/evirerank-figure1.png' alt="EviRerank effectiveness and latency comparison" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[EviRerank: Adaptive Evidence Construction for Long-Document LLM Reranking](https://aclanthology.org/2026.findings-emnlp.704/)
+
+**Minghan Li**<sup>*</sup>, Eric Gaussier, Juntao Li, Guodong Zhou
+
+*EMNLP 2026 Findings*
+
+- Adaptive evidence construction for efficient long-document LLM reranking.
+
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
       <div class="badge venue-tag">Information Fusion 2026</div>
       <img src='../images/inffusion.png' alt="Dual-Layer Prompt Ensembles" width="100%">
     </div>
@@ -99,7 +119,7 @@ I received my B.S. degree from Xi’an Jiaotong University, my M.S. degree from 
   <div class='paper-box-image'>
     <div>
       <div class="badge venue-tag">TOIS 2023</div>
-      <img src='../images/KeyB-TOIS.png' alt="TOIS 2023" width="100%">
+      <img src='../images/tois-2023-figure7.png' alt="KeyB(vBERT) architecture, Figure 7" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
