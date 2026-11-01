@@ -181,6 +181,14 @@ I received my B.S. degree from Xi’an Jiaotong University, my M.S. degree from 
 - Soochow University Academic Start-up Fund, **Principal Investigator**.
 - *2023* — **Domain Transfer for Conversational Search**, IDEX Université Grenoble Alpes, for a research visit to the National University of Singapore (NUS), **Principal Investigator**.
 
+# Academic Service
+
+<div class="academic-service">
+  <p><strong>Area Chair</strong><span>ACL Rolling Review (ARR)</span></p>
+  <p><strong>Conference Reviewer / PC Member</strong><span>AAAI, ACM SIGIR, ECIR, ACL, ICLR, NeurIPS</span></p>
+  <p><strong>Journal Reviewer</strong><span>ACM TOIS, IEEE TPAMI, Artificial Intelligence, IEEE TMC, ACM TKDD, Information Processing &amp; Management (IP&amp;M), Chinese Journal of Computers</span></p>
+</div>
+
 # 📖 Educations
 - Ph.D. in Computer Science, <img src="../images/uga.png" width="18" style="vertical-align:middle;"> [Université Grenoble Alpes](https://www.univ-grenoble-alpes.fr/), France.
 - M.S. in Computer Technology, <img src="../images/xidian.png" width="18" style="vertical-align:middle;"> [Xidian University](https://en.xidian.edu.cn/), China.
