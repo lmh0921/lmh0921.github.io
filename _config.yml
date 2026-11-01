@@ -65,6 +65,8 @@ include:
   - _pages
   - files
 exclude:
+  # Temporarily disable publication of /group/ while preserving its source.
+  - _pages/group.html
   - docs
   - google_scholar_crawler
   - "*.sublime-project"

@@ -1,7 +1,8 @@
 # main links links
 main:
-  - title: "Research Group"
-    url: "/group/"
+  # Temporarily hidden; restore when the group page is public again.
+  # - title: "Research Group"
+  #   url: "/group/"
 
   - title: "About Me"
     url: "/#about-me"

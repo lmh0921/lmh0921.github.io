@@ -22,7 +22,10 @@ I joined the School of Computer Science and Technology at Soochow University in 
 I received my B.S. degree from Xi’an Jiaotong University, my M.S. degree from Xidian University, and my Ph.D. degree from [Université Grenoble Alpes](https://www.univ-grenoble-alpes.fr/), France. During my Ph.D., I conducted research at the Laboratoire d’Informatique de Grenoble (LIG), a joint research laboratory affiliated with CNRS and Université Grenoble Alpes, under the supervision of Prof. [Eric Gaussier](https://scholar.google.com/citations?user=rCpJslsAAAAJ). If you are interested in academic collaboration, student supervision, or research discussions, please feel free to contact me by [email](mailto:{{ site.author.email }}).
 
 
+{% comment %}
+Temporarily hidden research group entrance.
 <a class="group-invitation" href="{{ '/group/' | relative_url }}"><span><small>RESEARCH GROUP <img class="sugar-icon" src="{{ '/images/sugar-cube-flaticon.png' | relative_url }}" alt=""></small><strong>{{ site.data.group.tagline }}</strong><span>{{ site.data.group.name }} ({{ site.data.group.short_name }})</span></span><span aria-hidden="true">↗</span></a>
+{% endcomment %}
 
 # 🔥 News
 
